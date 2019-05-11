@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapboxJava</string>
+    <string name="navigation_guidance_day" translatable="false">mapbox://styles/mapbox/streets-v10</string>
+<string name="access_token" translatable="false">sk.eyJ1IjoiYWRhbXNraTEyNiIsImEiOiJjanZqd2h2dGwwY2MzNGNvZjM5ZnljdHhoIn0.XYrk7WsylJcFO4Wk-Y1fzA</string>
+<string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+<string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
